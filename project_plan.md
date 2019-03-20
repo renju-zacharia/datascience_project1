@@ -1,4 +1,3 @@
-
 Problem Statement : Does it matter what area of the USA you graduate from?
 
 Dataset Source : https://www.kaggle.com/wsj/college-salaries
