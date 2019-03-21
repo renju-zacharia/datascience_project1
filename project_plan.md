@@ -7,8 +7,9 @@ Team :
 
 Renju Zacharia
 Amit Raut
-Luis Davalos
 Abdul Razak
+Luis Davalos
+
 
 Questions :
 
