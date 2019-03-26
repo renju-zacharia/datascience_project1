@@ -1,4 +1,3 @@
-
 Starbuck Market Opportunities
 
 Problem Statement:
@@ -38,3 +37,4 @@ Data Cleansing:
 Data Profile for Typical Starbuck Location:
 Summarizing the collected data for zip codes with existing Starbucks
 Match the profile against on existing  store locations and recommend potential zipcode matches.
+
