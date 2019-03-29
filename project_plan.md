@@ -1,59 +1,40 @@
+Starbuck Market Opportunities
 
-Problem Statement : Does it matter what area of the USA you graduate from?
+Problem Statement:
+Is Starbucks market saturated or are there opportunities for more Starbucks?
 
-Dataset Source : https://www.kaggle.com/wsj/college-salaries
-
-Team : 
-
+Team:
+Lois Davalos
 Renju Zacharia
 Amit Raut
-Luis Davalos
 Abdul Razak
 
-Questions :
+Data Sets:
+Zip Code Locations for Existing Starbucks in the USA
+Source: Kaggle
+Census Bureau
 
-1. Does the US regions influence starting salaries ? 
+Questions:
+(1)    What is the typical household income in the market where existing Starbucks are located?
+(2)    What is the typical Per Capita income in the market where existing Starbucks are located?
+(3)    What is the typical population size in the market where existing Starbucks are located?
+(4)    What is the typical Median Age in the market where existing Starbucks are located?
+(5)    What is the Employable Labor force in the market where existing Starbucks are located?
+(6)    What is the Median Home Values in the market where existing Starbucks are located?
 
-2. Does the rating of school attended influence salaries ? 
+Tasks:    
+To find out if there is a growth trend in Starbucks
 
-3. Compare the salaries across all regions.
+Data Extraction:
+    Starbucks location information by zip code
+    Census information by zip code for multiple criteria
+    
+Data Cleansing:
+    Review Starbucks location information – Parse Zip code infor.
+    Check for NAV
+    Check for outliers
 
-4. Compare our analysis based on cluster of the percentile of change in careers.
+Data Profile for Typical Starbuck Location:
+Summarizing the collected data for zip codes with existing Starbucks
+Match the profile against on existing  store locations and recommend potential zipcode matches.
 
-5. Other factors including the school you attend, location, passion or talent for the subject and career.
-
-Our analysis will be structure on the following points:
-
-- Undergraduate Major
-
-- Starting median Salary
-
-- Region
-
-- Mid career salary
-
-- Percentage change from starting median to mid career salary
-
-- Mid career 25th percentile salary
-
-- Mid career 75th percentile salary
-
-- Mid career 90th percentile salary
-
-Tasks :
-
-1. API - Renju 
-   
-2. Data Cleansing - Luis
-
-3. Pandas on Jupyter Notebook -
-       Analysis and plots ( line / bar / map ) 
-	a. Luis - problem 1
-	b. Amit - problem 2
-	c. Renju - problem 3
-	d. Abdul - problem 4
-	e. Unassigned - problem 5
-
-4. Correlation among Starting Salary and other attributes.   
-
-4. Final Presentation - Team.
