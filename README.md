@@ -1,4 +1,3 @@
-
 # Analysis - Are there opportunities for more Starbucks in the United States ?
 
 ## Background
